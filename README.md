@@ -1,3 +1,4 @@
+# run 1
 # merge-png-emoji
 Do you hate your Android emojis? Yeah, me too. Well, after an obscene amount of research, I've found a way to merge Apple Emojis with any font.
 
